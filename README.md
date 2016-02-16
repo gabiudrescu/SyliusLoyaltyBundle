@@ -1,6 +1,17 @@
 Sylius Loyalty Bundle
 ==============
 
+This bundle should allow administration of cashback and loyalty programs in Sylius. Requirements are currently work in progress. 
+
+Summary: 
+==============
+ - [Points](#points)
+ - [Levels](#levels)
+ - [Award mechanism](#award-mechanism)
+ - [MyAccount](#myaccount)
+ - [Checkout integration](#checkout-integration)
+ - [Admin](#admin)
+
 Points
 ------
 
